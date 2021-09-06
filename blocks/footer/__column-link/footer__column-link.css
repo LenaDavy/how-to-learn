@@ -3,4 +3,9 @@
     text-decoration: none;
     line-height: 30px;
     font-size: 18px;
+    transition: color 0.5s linear;
+  }
+
+  .footer__column-link:hover {
+    color: #8cb4e7;
   }
